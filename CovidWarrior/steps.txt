@@ -1,0 +1,5 @@
+steps to generate:-
+Run in cmd
+1> pip install requirements.txt
+2> download the chrome webdriver which should match with your current chrome version and set its path in environment variables.
+3> python covidparser.py
